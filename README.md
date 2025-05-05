@@ -1,4 +1,10 @@
+<div align="center">
+
 # dhvagna-dom
+
+![image](https://github.com/user-attachments/assets/d13738af-f2e6-4a40-a3e4-d1ffd79f1515)
+
+</div>
 
 > **What makes dhvagna-dom stand out?** Unlike other DOM-ready utilities, this package combines TypeScript support, minimal size (0.7KB), intelligent state detection, and cross-browser compatibility while offering features like optional timeouts and proper event cleanup. It's the smartest choice for modern web development when you need reliable DOM-ready detection without the bloat.
 
